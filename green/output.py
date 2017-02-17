@@ -126,7 +126,6 @@ class GreenStream(object):
        following functions just for compatibility:
            writelines(lines)
     """
-
     indent_spaces = 2
     _ascii_only_output = False  # default to printing output in unicode
 
